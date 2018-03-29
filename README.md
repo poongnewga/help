@@ -11,7 +11,7 @@
 
 1. **Clone or download** 라는 녹색 버튼을 찾아서 이 프로젝트를 컴퓨터에 다운받습니다.
 
-2. `final_project` 라는 새로운 폴더를 만듭니다. 그리고 `final_project` 폴더로 방금 `1`에서 다운받은 `index.html` 과 `style.css` 파일을 옮겨줍니다.
+2. `final_project` 라는 새로운 폴더를 따로 만듭니다.(다운받은 폴더 내에 만들면 안됩니다.) 그리고 `final_project` 폴더로 방금 `1`에서 다운받은 `index.html` 과 `style.css` 파일을 옮겨줍니다.
 
 3. VS Code로 프로젝트 내의 `index.html` 과 `style.css` 파일을 엽니다.
 
